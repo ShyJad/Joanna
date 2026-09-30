@@ -1,4 +1,4 @@
-# Hi, I'm Jnna 👋
+# Hi, I'm Joanna 👋
 
 I'm currently studying MSc Statistics at Imperial College London. I previously studied Mathematics and Statistics at the University of Edinburgh.
 
@@ -11,4 +11,4 @@ I'm interested in statistics, data science and quantitative finance. I mainly us
 - Mainly working with R and Python
 - Learning Git and GitHub
 
-You can find out more about [Imperial Collge London](https://www.imperial.ac.uk/).
+You can find out more about [Imperial Coellge London](https://www.imperial.ac.uk/).
