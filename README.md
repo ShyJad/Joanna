@@ -11,4 +11,4 @@ I'm interested in statistics, data science and quantitative finance. I mainly us
 - Mainly working with R and Python
 - Learning Git and GitHub
 
-You can find out more about [Imperial Coellge London](https://www.imperial.ac.uk/).
+You can find out more about [Imperial College London](https://www.imperial.ac.uk/).
